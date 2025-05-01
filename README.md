@@ -59,6 +59,7 @@ Run : Color detector.ipynb
 
 ******************--------------------------------------***************************
 EXAMPLE OUTPUTS:
+
 ✔  TASKS 1
 Grayscale Image: ![grayscale](https://github.com/user-attachments/assets/f85d7589-caec-4dd5-a69c-1bcb561bf489)
 
