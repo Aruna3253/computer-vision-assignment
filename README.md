@@ -60,13 +60,11 @@ Run : Color detector.ipynb
 ******************--------------------------------------***************************
 EXAMPLE OUTPUTS:
 ✔  TASKS 1
-Grayscale Image:
-![edges](https://github.com/user-attachments/assets/e22e7a65-0eee-4bb1-a401-4ca7bcfb0b92)
-Blurred Image:  
-![blurred](https://github.com/user-attachments/assets/0e57be04-9f06-4f7d-81c4-3a1f717f242a)
+Grayscale Image: ![grayscale](https://github.com/user-attachments/assets/f85d7589-caec-4dd5-a69c-1bcb561bf489)
 
-Canny Edge:
-![edges](https://github.com/user-attachments/assets/e9b2be32-2b0d-4fb8-b260-e68bec0b4783)
+Blurred Image:  ![blurred](https://github.com/user-attachments/assets/0e57be04-9f06-4f7d-81c4-3a1f717f242a)
+
+Canny Edge:    ![edges](https://github.com/user-attachments/assets/e9b2be32-2b0d-4fb8-b260-e68bec0b4783)
 
 ✔  Task 2:
 Screenshots While clicking pink objects:
